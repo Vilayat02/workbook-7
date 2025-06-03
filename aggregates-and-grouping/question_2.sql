@@ -1,0 +1,1 @@
+SELECT SUM(Salary) AS Total FROM northwind.employees;

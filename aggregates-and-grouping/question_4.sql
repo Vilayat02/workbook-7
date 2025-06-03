@@ -1,0 +1,1 @@
+SELECT ROUND(AVG(UnitPrice), 2) FROM northwind.products;

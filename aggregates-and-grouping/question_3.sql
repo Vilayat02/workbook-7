@@ -1,0 +1,1 @@
+SELECT * FROM northwind.products ORDER BY UnitPrice ASC LIMIT 1;
